@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Gitwok < Formula
   desc "Configurable CLI with conventional commits, changelog, git hooks all in one"
   homepage "https://github.com/Roytangrb/gitwok"
